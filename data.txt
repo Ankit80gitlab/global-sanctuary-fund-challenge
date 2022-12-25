@@ -1,0 +1,49 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles2.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navBar">
+            <div class="back"></div>
+        <img class="deerImg" src="assets/deer.png" alt="error">
+            <div class="options">
+                <div class="op1"><a href="https://www.google.com">OUR WORK</a></div>
+                <div class="op2"><a href="https://www.google.com">PEOPLE</a></div>
+                <div class="op3"><a href="https://www.google.com">PLACES</a></div>
+                <div class="op4"><a href="https://www.google.com">WILD LIFE</a></div>
+                <div class="op5"><a href="https://www.google.com">ABOUT</a></div>
+                <div class="op6"><a href="https://www.google.com">HOW TO HELP</a></div>
+            </div>
+            <div class="buttons">
+                <div class="donate"><a href="https://www.google.com">DONATE |+</a></div>
+                <div class="adopt"><a href="https://www.google.com">ADOPT |+</a></div>
+            </div>
+        
+        </nav>
+    </header>
+    <main>
+        <img class="mainImg" ; src="assets/people-together-shorter.jpg" alt="error">
+
+        <div class="try">
+            <div class="n1"><div class="o"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+            <div class="n2"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+            <div class="n3"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+            <div class="n4"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+            <div class="n5"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+            <div class="n6"><img class="test" src="assets/turtle.jpg" alt="Avatar"><div class="p"><h1>FOOD</h1></div></div></div>
+        </div>
+            
+
+    </main>
+
+</body>
+
+</html>
